@@ -5,3 +5,9 @@
 
 ### Google Colab
 - https://colab.research.google.com/
+
+### RStudio
+- https://rstudio.com/products/rstudio/download/
+
+### R
+- https://cran.r-project.org/bin/windows/base/
